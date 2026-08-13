@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-# nawang
+# About
 
 <!-- ============================================================
      INSTRUCTIONS: Replace placeholder text below with your info.
@@ -25,7 +25,7 @@ title: About Me
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Ngawang Sonam Dolkar
 
 **Title / Role** — student
 
